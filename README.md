@@ -8,3 +8,6 @@ El archivo `shipping-data.csv` contiene información sobre los envios de product
 
 * `Weight_in_gms`
 
+Para ello, siga las instrucciones dadas en el siguiente video:
+
+
