@@ -8,6 +8,10 @@ El archivo `shipping-data.csv` contiene información sobre los envios de product
 
 * `Weight_in_gms`
 
+El dashboard generado debe ser similar a este:
+
+![dashboard](https://github.com/jdvelasq/LAB_matplotlib_dashboard/blob/main/shipping-dashboard-example.png)
+
 Para ello, siga las instrucciones dadas en el siguiente video:
 
 
